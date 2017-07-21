@@ -1,0 +1,8 @@
+name: pvpswap
+main: 
+version: 1.1.0
+author: ProgramTurtle
+commands:
+   pswap:
+         description: For internal user only
+         usage: /pswap [action]
