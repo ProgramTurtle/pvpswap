@@ -1,8 +1,12 @@
 name: pvpswap
-main: 
+main: com.ProgramTurtle.pvpswap
 version: 1.1.0
 author: ProgramTurtle
 commands:
-   pswap:
-         description: For internal user only
-         usage: /pswap [action]
+   Join:
+         description: Join a PvPSwap arena!
+         usage: /pjoin [arena]
+   Leave:
+         description: Leave a PvPSwap arena
+         usage: /pleave
+   
